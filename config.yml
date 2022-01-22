@@ -13,16 +13,16 @@ languages:
        weight: 1
        menu:
            main:
-               - name: Archive
+               - name: Arsip
                  url: archives
                  weight: 5
-               - name: Search
+               - name: Pencarian
                  url: search/
                  weight: 10
-               - name: Tags
+               - name: Label
                  url: tags/
                  weight: 10
-               - name: Categories
+               - name: Kategori
                  url: categories/
                  weight: 10
 
@@ -63,9 +63,9 @@ params:
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
-            - name: Archives
+            - name: Arsip
               url: archives
-            - name: Tags
+            - name: Label
               url: tags
 
     homeInfoParams:

@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
 title: NAWAN
-theme: "PaperMod"
-
 author: Nawan
+theme: "PaperMod"
+enableEmoji: true

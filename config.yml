@@ -4,6 +4,7 @@ title: NAWAN
 author: Nawan
 theme: "PaperMod"
 enableEmoji: true
+enableRobotsTXT: true
 
 languages:
 	id:

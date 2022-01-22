@@ -4,19 +4,19 @@ date: {{ .Date }}
 draft: true
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["insert your tag here"]
 author: {{ .Site.Author.name }}
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
 hidemeta: false
 comments: false
-description: "{{ .
+description: ""
 canonicalURL: "https://canonical.url/to/page"
 disableShare: false
 disableHLJS: false # to disable highlight.js
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

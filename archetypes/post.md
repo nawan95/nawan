@@ -1,12 +1,12 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+# author: ["Me", "You"] # multiple authors
+author: {{ .Site.Author.name }}
 draft: true
 # weight: 1
 # aliases: ["/first"]
 tags: ["insert your tag here"]
-author: {{ .Site.Author.name }}
-# author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
 hidemeta: false

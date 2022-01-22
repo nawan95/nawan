@@ -41,16 +41,16 @@ params:
     hideSummary: false
     showtoc: false
     tocopen: false
-	
+
     assets:
         favicon: "assets/favicon.ico"
         favicon16x16: "assets/favicon-16x16.ico"
         favicon32x32: "assets/favicon-32x32.ico"
         apple_touch_icon: "assets/apple-touch-icon.png"
-		
+
     profileMode:
         enabled: true
-        title: "" # optional default will be site title
+        title: # optional default will be site title
         subtitle: "Hanya seorang mahasiswa kupu-kupu, menghabiskan waktu dengan rebahan dan menumpuk daf"tar tontonan Netflix. Sesekali mampir ke Wikipedia."
         imageUrl: "https://pbs.twimg.com/profile_images/1148793038514188288/XhwB7cXA_400x400.jpg" # optional
         imageTitle: "Ini adalah foto Nawan" # optional
@@ -61,12 +61,12 @@ params:
             url: "arsip"
             - name: Label
             url: "label"
-            
+
     homeInfoParams:
         Title: "Nawan"
         Content: >
             Hanya seorang mahasiswa kupu-kupu, menghabiskan waktu dengan rebahan dan menumpuk daftar tontonan Netflix. Sesekali mampir ke Wikipedia.
-			
+
     socialIcons:
         - name: twitter
         url: "https://twitter.com/nawanpangestu95"
@@ -80,7 +80,7 @@ params:
         url: "https://discordapp.com/users/768101555169656833"
         - name: steam
         url: "https://steamcommunity.com/id/sergiuv/"
-		
+
 taxonomies:
     category: categories
     tag: tags

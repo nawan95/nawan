@@ -51,7 +51,7 @@ params:
     profileMode:
         enabled: true
         title: # optional default will be site title
-        subtitle: "Hanya seorang mahasiswa kupu-kupu, menghabiskan waktu dengan rebahan dan menumpuk daf"tar tontonan Netflix. Sesekali mampir ke Wikipedia."
+        subtitle: "Hanya seorang mahasiswa kupu-kupu, menghabiskan waktu dengan rebahan dan menumpuk daftar tontonan Netflix. Sesekali mampir ke Wikipedia."
         imageUrl: "https://pbs.twimg.com/profile_images/1148793038514188288/XhwB7cXA_400x400.jpg" # optional
         imageTitle: "Ini adalah foto Nawan" # optional
         imageWidth: 120 # custom size

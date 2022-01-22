@@ -58,9 +58,9 @@ params:
         imageHeight: 120 # custom size
         buttons:
             - name: Arsip
-            url: "arsip"
+              url: "arsip"
             - name: Label
-            url: "label"
+              url: "label"
 
     homeInfoParams:
         Title: "Nawan"
@@ -69,17 +69,17 @@ params:
 
     socialIcons:
         - name: twitter
-        url: "https://twitter.com/nawanpangestu95"
+          url: "https://twitter.com/nawanpangestu95"
         - name: instagram
-        url: "https://www.instagram.com/nawanpangestu95/"
+          url: "https://www.instagram.com/nawanpangestu95/"
         - name: github
-        url: "https://github.com/nawan95"
+          url: "https://github.com/nawan95"
         - name: keybase
-        url: "https://keybase.io/nawantpangestu"
+          url: "https://keybase.io/nawantpangestu"
         - name: discord
-        url: "https://discordapp.com/users/768101555169656833"
+          url: "https://discordapp.com/users/768101555169656833"
         - name: steam
-        url: "https://steamcommunity.com/id/sergiuv/"
+          url: "https://steamcommunity.com/id/sergiuv/"
 
 taxonomies:
     category: categories

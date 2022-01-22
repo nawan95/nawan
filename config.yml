@@ -80,4 +80,9 @@ params:
 		url: "https://discordapp.com/users/768101555169656833"
 		- name: steam
 		url: "https://steamcommunity.com/id/sergiuv/"
+		
+taxonomies:
+	category: categories
+	tag: tags
+	
 

@@ -27,10 +27,10 @@ languages:
                  weight: 10
 
 outputs:
-	home:
-		- HTML
-		- RSS
-		- JSON
+    home:
+        - HTML
+        - RSS
+        - JSON
 
 params:
     defaultheme: auto

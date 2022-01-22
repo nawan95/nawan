@@ -5,6 +5,25 @@ author: Nawan
 theme: "PaperMod"
 enableEmoji: true
 
+languages:
+	id:
+		languageName: "Bahasa Indonesia"
+		weight: 1
+		menu:
+			main:
+				- name: Archives
+					url: archives
+					weight: 5
+				- name: Search
+					url: search/
+					weight: 10
+				- name: Tags
+					url: tags/
+					weight: 10
+				- name: Categories
+					url: categories/
+					weight: 10
+
 params:
 	defaultheme: auto
 	descrption: "Tempat peristirahatan terakhir bagi kata-kata"

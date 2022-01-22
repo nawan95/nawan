@@ -5,6 +5,7 @@ author: Nawan
 theme: "PaperMod"
 enableEmoji: true
 enableRobotsTXT: true
+enableInlineShortcodes: true
 
 languages:
 	id:

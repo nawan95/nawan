@@ -1,5 +1,5 @@
 baseURL: http://example.org/
-languageCode: en-us
+defaultContentLanguage: id
 title: NAWAN
 author: Nawan
 theme: "PaperMod"

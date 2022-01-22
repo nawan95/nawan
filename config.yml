@@ -26,6 +26,12 @@ languages:
                  url: categories/
                  weight: 10
 
+outputs:
+	home:
+		- HTML
+		- RSS
+		- JSON
+
 params:
     defaultheme: auto
     descrption: "Tempat peristirahatan terakhir bagi kata-kata"

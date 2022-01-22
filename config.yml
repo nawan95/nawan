@@ -13,7 +13,7 @@ languages:
        weight: 1
        menu:
            main:
-               - name: Archives
+               - name: Archive
                  url: archives
                  weight: 5
                - name: Search
@@ -57,10 +57,10 @@ params:
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
-            - name: Arsip
-              url: "arsip"
-            - name: Label
-              url: "label"
+            - name: Archives
+              url: archives
+            - name: Tags
+              url: tags
 
     homeInfoParams:
         Title: "Nawan"

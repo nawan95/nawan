@@ -32,7 +32,7 @@ params:
     keywords: [blog, wikipedia, nawan]
     DateFormat: "2 January 2006"
     disableThemeToggle: false
-	
+
     ShowShareButtons: true
     ShowReadingTime: true
     ShowPostNavLinks: true

@@ -8,45 +8,45 @@ enableRobotsTXT: true
 enableInlineShortcodes: true
 
 languages:
-	id:
-		languageName: "Bahasa Indonesia"
-		weight: 1
-		menu:
-			main:
-				- name: Archives
-					url: archives
-					weight: 5
-				- name: Search
-					url: search/
-					weight: 10
-				- name: Tags
-					url: tags/
-					weight: 10
-				- name: Categories
-					url: categories/
-					weight: 10
+   id:
+       languageName: "Bahasa Indonesia"
+       weight: 1
+       menu:
+           main:
+               - name: Archives
+                 url: archives
+                 weight: 5
+               - name: Search
+                 url: search/
+                 weight: 10
+               - name: Tags
+                 url: tags/
+                 weight: 10
+               - name: Categories
+                 url: categories/
+                 weight: 10
 
 params:
-	defaultheme: auto
-	descrption: "Tempat peristirahatan terakhir bagi kata-kata"
-	keywords: [blog, wikipedia, nawan]
-	DateFormat: "2 January 2006"
-	disableThemeToggle: false
+    defaultheme: auto
+    descrption: "Tempat peristirahatan terakhir bagi kata-kata"
+    keywords: [blog, wikipedia, nawan]
+    DateFormat: "2 January 2006"
+    disableThemeToggle: false
 	
-	ShowShareButtons: true
-	ShowReadingTime: true
-	ShowPostNavLinks: true
-	comments: false
-	hidemeta: false
-	hideSummary: false
-	showtoc: false
-	tocopen: false
+    ShowShareButtons: true
+    ShowReadingTime: true
+    ShowPostNavLinks: true
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
 	
-	assets:
-		favicon: "assets/favicon.ico"
-		favicon16x16: "assets/favicon-16x16.ico"
-		favicon32x32: "assets/favicon-32x32.ico"
-		apple_touch_icon: "assets/apple-touch-icon.png"
+    assets:
+        favicon: "assets/favicon.ico"
+        favicon16x16: "assets/favicon-16x16.ico"
+        favicon32x32: "assets/favicon-32x32.ico"
+        apple_touch_icon: "assets/apple-touch-icon.png"
 		
     profileMode:
         enabled: true
@@ -62,27 +62,27 @@ params:
             - name: Label
             url: "label"
             
-	homeInfoParams:
-		Title: "Nawan"
-		Content: >
-			Hanya seorang mahasiswa kupu-kupu, menghabiskan waktu dengan rebahan dan menumpuk daftar tontonan Netflix. Sesekali mampir ke Wikipedia.
+    homeInfoParams:
+        Title: "Nawan"
+        Content: >
+            Hanya seorang mahasiswa kupu-kupu, menghabiskan waktu dengan rebahan dan menumpuk daftar tontonan Netflix. Sesekali mampir ke Wikipedia.
 			
-	socialIcons:
-		- name: twitter
-		url: "https://twitter.com/nawanpangestu95"
-		- name: instagram
-		url: "https://www.instagram.com/nawanpangestu95/"
-		- name: github
-		url: "https://github.com/nawan95"
-		- name: keybase
-		url: "https://keybase.io/nawantpangestu"
-		- name: discord
-		url: "https://discordapp.com/users/768101555169656833"
-		- name: steam
-		url: "https://steamcommunity.com/id/sergiuv/"
+    socialIcons:
+        - name: twitter
+        url: "https://twitter.com/nawanpangestu95"
+        - name: instagram
+        url: "https://www.instagram.com/nawanpangestu95/"
+        - name: github
+        url: "https://github.com/nawan95"
+        - name: keybase
+        url: "https://keybase.io/nawantpangestu"
+        - name: discord
+        url: "https://discordapp.com/users/768101555169656833"
+        - name: steam
+        url: "https://steamcommunity.com/id/sergiuv/"
 		
 taxonomies:
-	category: categories
-	tag: tags
+    category: categories
+    tag: tags
 	
 

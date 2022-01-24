@@ -22,9 +22,6 @@ languages:
                - name: Label
                  url: tags/
                  weight: 10
-               - name: Kategori
-                 url: categories/
-                 weight: 10
 
 outputs:
     home:
@@ -63,10 +60,10 @@ params:
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
-            - name: Arsip
-              url: archives
-            - name: Label
-              url: tags
+            - name: Postingan
+              url: post
+            - name: Kategori
+              url: categories
 
     socialIcons:
         - name: twitter

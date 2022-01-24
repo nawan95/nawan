@@ -68,11 +68,6 @@ params:
             - name: Label
               url: tags
 
-    homeInfoParams:
-        Title: "Nawan"
-        Content: >
-            Hanya seorang mahasiswa kupu-kupu, menghabiskan waktu dengan rebahan dan menumpuk daftar tontonan Netflix. Sesekali mampir ke Wikipedia.
-
     socialIcons:
         - name: twitter
           url: "https://twitter.com/nawanpangestu95"

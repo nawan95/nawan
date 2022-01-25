@@ -2,6 +2,9 @@ baseURL: https://nawan.my.id
 defaultContentLanguage: id
 title: NAWAN
 author: Nawan
+params:
+   author: Nawan Pangestu
+   description: Tempat peristirahatan terakhir bagi kata-kata
 theme: "PaperMod"
 enableEmoji: true
 enableRobotsTXT: true

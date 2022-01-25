@@ -1,0 +1,45 @@
+name: Build to NFSN
+
+on:
+  push:
+    paths-ignore:
+      - 'images/**'
+      - 'LICENSE'
+      - 'README.md'
+    branches:
+      - nfsn
+  workflow_dispatch:
+    # manual run
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Git checkout
+        uses: actions/checkout@v2
+        with:
+          ref: master
+
+      - name: Get Theme
+        run: git submodule update --init --recursive
+
+      - name: Update theme to Latest commit
+        run: git submodule update --remote --merge
+
+      - name: Setup hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.83.0'
+          
+      - name: Build a site
+        run: hugo --buildDrafts --gc --verbose --minify
+          
+      - name: Install SSH key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.NEARLYFREESPEECH_SSH }}
+          known_hosts: ${{ secrets.KNOWN_HOSTS }}
+          if_key_exists: fail # replace / ignore / fail; optional (defaults to fail)
+
+      - name: rsync over ssh
+        run: rsync -avz ./public/ nawan_calibre@ssh.phx.nearlyfreespeech.net:/home/public/

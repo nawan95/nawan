@@ -6,6 +6,7 @@ theme: "PaperMod"
 enableEmoji: true
 enableRobotsTXT: true
 enableInlineShortcodes: true
+enableGitInfo: true
 
 languages:
    id:

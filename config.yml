@@ -16,6 +16,9 @@ languages:
                - name: Arsip
                  url: archives
                  weight: 5
+               - name: Wikipedia (userP)
+                 url: https://id.wikipedia.org/wiki/Pengguna:NawanP
+                 weight: 5
                - name: Pencarian
                  url: search/
                  weight: 10

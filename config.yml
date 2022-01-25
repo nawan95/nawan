@@ -6,6 +6,7 @@ theme: "PaperMod"
 enableEmoji: true
 enableRobotsTXT: true
 enableInlineShortcodes: true
+enableGitInfo: true
 
 languages:
    id:
@@ -16,14 +17,14 @@ languages:
                - name: Arsip
                  url: archives
                  weight: 5
+               - name: Wikipedia (user)
+                 url: https://id.wikipedia.org/wiki/Pengguna:NawanP
+                 weight: 5
                - name: Pencarian
                  url: search/
                  weight: 10
                - name: Label
                  url: tags/
-                 weight: 10
-               - name: Kategori
-                 url: categories/
                  weight: 10
 
 outputs:
@@ -36,7 +37,7 @@ params:
     defaultheme: auto
     descrption: "Tempat peristirahatan terakhir bagi kata-kata"
     keywords: [blog, wikipedia, nawan]
-    DateFormat: "2 January 2006"
+    DateFormat: "2 Januari 2006"
     disableThemeToggle: false
 
     ShowShareButtons: true
@@ -63,15 +64,10 @@ params:
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
-            - name: Arsip
-              url: archives
-            - name: Label
-              url: tags
-
-    homeInfoParams:
-        Title: "Nawan"
-        Content: >
-            Hanya seorang mahasiswa kupu-kupu, menghabiskan waktu dengan rebahan dan menumpuk daftar tontonan Netflix. Sesekali mampir ke Wikipedia.
+            - name: Postingan
+              url: post
+            - name: Kategori
+              url: categories
 
     socialIcons:
         - name: twitter

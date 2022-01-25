@@ -33,8 +33,8 @@ outputs:
         - JSON
 
 params:
-    defaultheme: auto
-    descrption: "Tempat peristirahatan terakhir bagi kata-kata"
+    defaultTheme: auto
+    description: "Tempat peristirahatan terakhir bagi kata-kata"
     keywords: [blog, wikipedia, nawan]
     DateFormat: "2 January 2006"
     disableThemeToggle: false

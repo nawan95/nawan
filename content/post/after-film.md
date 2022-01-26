@@ -1,5 +1,5 @@
 ---
-title: "After Film"
+title: "After, Bad boy, dan Stock character"
 date: 2020-08-10
 # author: ["Me", "You"] # multiple authors
 author: Nawan

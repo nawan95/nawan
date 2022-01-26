@@ -3,7 +3,7 @@ title: "Lorem_Ipsum"
 date: 2022-01-22T17:36:22+07:00
 # author: ["Me", "You"] # multiple authors
 author: "Nawan"
-draft: false
+draft: true
 # weight: 1
 # aliases: ["/lorem-ipsum"]
 tags: ["percobaan", "loremipsum", "test"]

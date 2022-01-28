@@ -29,6 +29,9 @@ languages:
                - name: Label
                  url: tags/
                  weight: 10
+               - identifier: pgp
+                 name: My PGP Public Key
+                 url: pubkey/pgp_keys.txt
 
 outputs:
     home:

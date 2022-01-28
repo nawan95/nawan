@@ -23,6 +23,9 @@ languages:
                - name: Wikipedia (user)
                  url: https://id.wikipedia.org/wiki/Pengguna:NawanP
                  weight: 5
+               - identifier: contact
+                 name: Hubungi
+                 url: contact
                - name: Pencarian
                  url: search/
                  weight: 10

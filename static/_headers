@@ -1,3 +1,3 @@
 /*
 X-Frame-Options: SAMEORIGIN
-Content-Security-Policy: default-src 'self'; script-src https://gc.zgo.at; img-src https://gc.zgo.at
+Content-Security-Policy: default-src 'self'; script-src https://gc.zgo.at; img-src 'self' https://gc.zgo.at

@@ -2,14 +2,28 @@ baseURL: https://nawan95.github.io/nawan/
 defaultContentLanguage: id
 title: NAWAN
 author: Nawan
-params:
-   author: Nawan Pangestu
-   description: Tempat peristirahatan terakhir bagi kata-kata
 theme: "PaperMod"
 enableEmoji: true
 enableRobotsTXT: true
 enableInlineShortcodes: true
 enableGitInfo: true
+
+
+
+frontmatter:
+   date:
+    - date
+    - publishDate
+   lastmod:
+    - :git
+    - lastmod
+    - date
+    - publishDate
+   publishDate:
+    - publishDate
+    - date
+
+
 
 languages:
    id:
@@ -43,6 +57,7 @@ outputs:
         - JSON
 
 params:
+    author: Nawan Pangestu
     defaultTheme: auto
     description: "Tempat peristirahatan terakhir bagi kata-kata"
     keywords: [blog, wikipedia, nawan]

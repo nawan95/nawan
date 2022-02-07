@@ -11,7 +11,7 @@
         <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
     </span>
     {{ if .IsPage }}
-    <span>Terakhir diperbaharui: {{ .GitInfo.AuthorDate }}, Version: {{ .GitInfo.AbbreviatedHash }}</span>
+    <span>Terakhir diperbaharui pada {{ .GitInfo.AuthorDate }}, versi {{ .GitInfo.AbbreviatedHash }}</span>
     {{- end }}
 </footer>
 {{- end }}

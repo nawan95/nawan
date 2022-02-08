@@ -1,5 +1,9 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
+    {{- if .IsPage }}
+    <span>Terakhir diperbaharui pada {{ .Page.Lastmod.Format "2 Januari 2006" }}, versi {{ .GitInfo.AbbreviatedHash }}</span>
+    {{- end }}
+    <br>
     {{- if .Site.Copyright }}
     <span>{{ .Site.Copyright | markdownify }}</span>
     {{- else }}
@@ -10,9 +14,6 @@
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
     </span>
-    {{ if .IsPage }}
-    <span>Terakhir diperbaharui pada {{ .GitInfo.AuthorDate }}, versi {{ .GitInfo.AbbreviatedHash }}</span>
-    {{- end }}
 </footer>
 {{- end }}
 

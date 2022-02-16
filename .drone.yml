@@ -12,3 +12,4 @@ steps:
   settings:
     hugo_version: 0.92
     validate: true
+    extended: true

@@ -7,11 +7,10 @@ platform:
   arch: amd64
 
 steps:
-- name: Get theme
-  commands: git submodule update --init --recursive
-
-- name: Update theme to Latest Commit
-  commands: git submodule update --remote --merge
+- name: Get theme and update to latest commit
+  commands: 
+  - git submodule update --init --recursive
+  - git submodule update --remote --merge
 
 - name: build
   image: plugins/hugo  

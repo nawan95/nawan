@@ -6,14 +6,11 @@ platform:
   os: linux
   arch: amd64
 
-steps:
-- name: Get theme and update to latest commit
-  commands: 
-  - git submodule update --init --recursive
-  - git submodule update --remote --merge
-
 - name: build
-  image: plugins/hugo  
+  image: plugins/hugo
+  commands:
+  - git submodule update --init --recursive
+  - git submodule update --remote --merge  
   settings:
     hugo_version: 0.92
     validate: false

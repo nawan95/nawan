@@ -11,5 +11,5 @@ steps:
   image: plugins/hugo
   settings:
     hugo_version: 0.92
-    validate: true
+    validate: false
     extended: true

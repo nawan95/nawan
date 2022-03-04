@@ -1,3 +1,4 @@
 /*
 X-Frame-Options: SAMEORIGIN
-Content-Security-Policy: default-src 'self' https://stats.nawan.my.id https://stats.nawan.my.id/count; script-src 'self' 'sha256-a72MzDH/lZnJJFjeA4unJdesRzjwr3TeZVNYucgNkJk=' 'sha256-/nV291Na1MuGRmAF5BCX/72e5aDh6O5wnlvisox+3Ts=' 'sha256-X5avg43RTxt2cSum+E3xICbowEMaOBxeBiNh05CXDTY=' 'sha256-4O+m6kk1wMpldFXFB8ldHkY/86U5xWfKtcSWERnGmhA=' https://netlify-cdp-loader.netlify.app/netlify.js https://stats.nawan.my.id;
+Content-Security-Policy: default-src 'self'; script-src 'unsafe-eval' 'unsafe-inline' 'self' https://netlify-cdp-loader.netlify.app/netlify.js https://gc.zgo.at; img-src 'self' https://nawan.goatcounter.com/count
+

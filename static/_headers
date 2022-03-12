@@ -1,4 +1,4 @@
 /*
 X-Frame-Options: SAMEORIGIN
-Content-Security-Policy: default-src 'self'; script-src 'unsafe-eval' 'unsafe-inline' 'self' https://netlify-cdp-loader.netlify.app/netlify.js https://gc.zgo.at; img-src 'self' https://nawan.goatcounter.com/count
+Content-Security-Policy: default-src 'self'; script-src 'unsafe-eval' 'unsafe-inline' 'self' https://netlify-cdp-loader.netlify.app/netlify.js https://gc.zgo.at; img-src 'self' https://nawan.goatcounter.com/count https://umami.nawan.my.id
 

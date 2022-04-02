@@ -4,10 +4,14 @@ date: 2020-08-10
 # author: ["Me", "You"] # multiple authors
 author: Nawan
 description: Sekedar pendapat pribadi penulis mengenai sebuah film berjudul After yang rilis pada 2019 silam. Film ini merupakan adaptasi dari novel berjudul sama yang terbit di Wattpad.
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["insert your tag here"]
+cover:
+    image: "img/after-cover.png"
+    alt: "Ini adalah poster promosi film After yang menampilkan Hero Fiennes-Tiffin sebagai Hardin Scott"
+    caption: "Sumber: IMDb, digunakan dibawah doktrin penggunaan wajar."
 showToc: false
 TocOpen: false
 hidemeta: false

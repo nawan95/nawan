@@ -8,6 +8,10 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["insert your tag here"]
+cover:
+    image: "img/after-cover.png"
+    alt: "Ini adalah poster promosi film After yang menampilkan Hero Fiennes-Tiffin sebagai Hardin Scott"
+    caption: "Sumber: IMDb, digunakan dibawah doktrin penggunaan wajar."
 showToc: false
 TocOpen: false
 hidemeta: false

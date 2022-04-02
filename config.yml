@@ -63,7 +63,7 @@ params:
     defaultTheme: auto
     description: "Tempat peristirahatan terakhir bagi kata-kata"
     keywords: [blog, wikipedia, nawan]
-    DateFormat: "2 Januari 2006"
+    DateFormat: "2 January 2006"
     disableThemeToggle: false
 
     ShowShareButtons: true

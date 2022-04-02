@@ -3,11 +3,16 @@ title: "After, Bad boy, dan Stock character"
 date: 2020-08-10
 # author: ["Me", "You"] # multiple authors
 author: Nawan
-description: Sekedar pendapat pribadi penulis mengenai sebuah film berjudul After yang rilis pada 2019 silam. Film ini merupakan adaptasi dari novel berjudul sama yang terbit di Wattpad.
+description: "Bad boy is a roguish, good-looking macho, often a womenizer."
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["insert your tag here"]
+tags:
+- film
+- After 
+- Hero Fiennes-Tiffin
+- Ulasan
+- Wattpad
 cover:
     image: "img/after-cover.png"
     alt: "Ini adalah poster promosi film After yang menampilkan Hero Fiennes-Tiffin sebagai Hardin Scott"
@@ -16,7 +21,6 @@ showToc: false
 TocOpen: false
 hidemeta: false
 comments: false
-description: ""
 canonicalURL: "https://canonical.url/to/page"
 disableShare: false
 disableHLJS: false # to disable highlight.js
@@ -26,8 +30,6 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ---
-
-*Bad boy is a roguish, good-looking macho, often a womenizer*.
 
 Hari itu jariku sedang sibuk menari di atas layar gawai yang menampilkan laman media sosial bikinan Mark Zuckerberg.
 Gerakan jariku berhenti di postingan akun resmi Wattpad yang mengunggah tiga buah foto poster yang menampilkan tiga sosok berbeda.

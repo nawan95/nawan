@@ -1,9 +1,15 @@
 ---
-tags: [] 
 date: '2022-04-02'
 title: Tentang Telepon Pintar yang Menjadi Usang
 description: "Namun, bagaimana jika umur gawai tersebut pendek, atau malah memang disengaja dibuat sedemikian rupa?"
 author: Nawan
+tags:
+- Renungan
+- Kontemplasi
+- Keusangan terencana
+- Smartphone
+- Gadget
+- Elektronik
 cover:
     image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bosch_MaxoMixx_planned_obsolence.jpg"
     alt: "Sebuah blender yang sengaja didesain agar menjadi usang atau rusak setelah beberapa tahun dan sulit diperbaiki"

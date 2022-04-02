@@ -36,9 +36,6 @@ languages:
                - name: Arsip
                  url: archives
                  weight: 5
-               - name: Wikipedia (user)
-                 url: https://id.wikipedia.org/wiki/Pengguna:NawanP
-                 weight: 5
                - identifier: contact
                  name: Hubungi
                  url: contact
@@ -49,7 +46,7 @@ languages:
                  url: tags/
                  weight: 10
                - identifier: pgp
-                 name: My PGP Public Key
+                 name: PGP Key
                  url: pubkey/pgp_keys.txt
 
 outputs:

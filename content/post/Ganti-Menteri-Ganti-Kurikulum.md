@@ -3,7 +3,7 @@ title: "Kutukan Ganti Menteri Ganti Kurikulum"
 date: 2022-04-07T18:23:24+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: 

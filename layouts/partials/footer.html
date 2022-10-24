@@ -1,9 +1,5 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
-    {{- if .IsPage }}
-    <span>Terakhir diperbaharui pada {{ .Page.Lastmod.Format "02 Jan 06 15:04 -0700" }}, versi {{ .GitInfo.AbbreviatedHash }}</span>
-    {{- end }}
-    <br>
     {{- if .Site.Copyright }}
     <span>{{ .Site.Copyright | markdownify }}</span>
     {{- else }}

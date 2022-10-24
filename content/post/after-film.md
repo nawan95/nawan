@@ -1,6 +1,7 @@
 ---
 title: "After, Bad boy, dan Stock character"
 date: 2020-08-10
+lastmod:
 # author: ["Me", "You"] # multiple authors
 author: Nawan
 description: "Bad boy is a roguish, good-looking macho, often a womenizer."

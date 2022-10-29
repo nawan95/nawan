@@ -17,8 +17,8 @@ frontmatter:
     - date
     - publishDate
    lastmod:
-    - :git
     - lastmod
+    - :git
     - date
     - publishDate
    publishDate:

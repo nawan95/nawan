@@ -1,3 +1,4 @@
 /*
 X-Frame-Options: SAMEORIGIN
-Content-Security-Policy: default-src 'self'; script-src 'self' 'sha384-wz/XFj71wbIHsRW+2DaSDKdIfb7G5DT7IBbwu8Cwveeu7AZo+q1nP9rU4sFI+pi6' 'sha384-QGgNMMRFTi8ul5kHJ+vXysPe8gySvSA/Y3rpXZiRLzKPIw8CWY+a3ObKmQsyDr+a'; img-src 'self' https://nawan.goatcounter.com/count https://upload.wikimedia.org https://mirrors.creativecommons.org
+Content-Security-Policy: default-src 'none'; connect-src https://umami.nawan.my.id/api/collect; img-src 'self' https://mirrors.creativecommons.org https://nawan.goatcounter.com https://upload.wikimedia.org; script-src 'self' 'unsafe-inline' https://gc.zgo.at/count.v3.js https://umami.nawan.my.id/umami.js; style-src 'self' 'unsafe-inline' 
+

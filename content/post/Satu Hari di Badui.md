@@ -3,7 +3,7 @@ title: "Satu Hari Di Badui"
 date: 2023-01-31T21:04:03+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan Tabah Pangestu
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags:

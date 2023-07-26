@@ -1,7 +1,8 @@
 baseURL: https://nawan.my.id
 defaultContentLanguage: id
 title: NAWAN
-author: Nawan
+author:
+   name: Nawan
 theme: "PaperMod"
 enableEmoji: true
 enableRobotsTXT: true

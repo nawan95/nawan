@@ -44,13 +44,13 @@ Sebelum bisa memasang Calibre-Web, persiapkan beberapa hal berikut ini:
 1. Buka aplikasi Calibre di komputer.
 
 2. Saat pertama kali membuka Calibre, akan muncul jendela Calibre *Welcome Wizard*. Jendela ini akan memandumu untuk membuat perpustakaan Calibre. Perpustakaan Calibre adalah direktori atau folder tempat semua buku dan basis data Calibre disimpan.
-{{< figure align=center alt="Sebuah jendela yang menampilkan antarmuka untuk memilih bahasa dan direktori tempat buku elektronik berada." caption="Ini adalah tampilan awal mula saat pertama kali membuka Calibre." src="img/calibre-welcome.png" >}}
+{{< figure align=center alt="Sebuah jendela yang menampilkan antarmuka untuk memilih bahasa dan direktori tempat buku elektronik berada." caption="Ini adalah tampilan awal mula saat pertama kali membuka Calibre." src="/img/calibre-welcome.png" >}}
 
 3. Jika direktori atau folder yang kita pilih sudah terdapat buku elektronik, Calibre akan langsung mengenali dan mengekstrak basis data, buku elektronik akan langsung muncul di Calibre. Namun, jika masih kosong, kita harus menambahkannya secara manual. Caranya dengan mengklik tombol bertuliskan “tambahkan buku” yang berada di sisi kanan atas.
-{{< figure align=center alt="Sebuah jendela yang menampilkan antarmuka utama Calibre. Tampak daftar koleksi buku elektronik dan ikon menu di sebelah atas." caption="Untuk menambahkan buku ke Calibre, klik tombol yang diberi kotak merah." src="img/calibre-add-book.png" >}}
+{{< figure align=center alt="Sebuah jendela yang menampilkan antarmuka utama Calibre. Tampak daftar koleksi buku elektronik dan ikon menu di sebelah atas." caption="Untuk menambahkan buku ke Calibre, klik tombol yang diberi kotak merah." src="/img/calibre-add-book.png" >}}
 
 4. Jika, tidak ingin menambahkannya satu per satu, terutama jika kita punya banyak koleksi buku elektronik, silakan jadikan satu koleksi ke dalam format ZIP atau RAR, kemudian ekspor melalui Calibre dengan mengklik segitiga terbalik kecil di sebelah kanan tombol untuk menambahkan buku di Calibre.
-{{< figure align=center alt="Sebuah jendela yang menampilkan antarmuka utama Calibre. Tampak daftar koleksi buku elektronik dan ikon menu di sebelah atas. Terdapat kotak merah sebagai petunjuk." caption="Untuk menambahkan banyak buku sekaligus yang telah dijadikan satu menjadi ZIP atau RAR ke Calibre, klik segitiga terbalik yang diberi kotak merah." src="img/Calibre-add-multi-book.png" >}}
+{{< figure align=center alt="Sebuah jendela yang menampilkan antarmuka utama Calibre. Tampak daftar koleksi buku elektronik dan ikon menu di sebelah atas. Terdapat kotak merah sebagai petunjuk." caption="Untuk menambahkan banyak buku sekaligus yang telah dijadikan satu menjadi ZIP atau RAR ke Calibre, klik segitiga terbalik yang diberi kotak merah." src="/img/Calibre-add-multi-book.png" >}}
 
 5. Tambahkan metadata ke dalam buku (opsional)
 Perangkat lunak Calibre biasanya secara otomatis menambahkan metadata seperti judul dan nama penulis dari buku elektronik yang kita tambahkan. Jadi kita tidak perlu menambahkannya secara manual. Namun, terkadang Calibre tidak bisa menambahkan metadata secara otomatis sehingga kita harus menambahkannya secara manual. Langkah ini bersifat opsional, kita bisa menambahkannya melalui Calibre-Web nantinya.

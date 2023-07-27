@@ -1,0 +1,27 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "hugo: build site",
+            "type": "shell",
+            "command": "hugo"
+        },
+        {
+            "label": "hugo: serve",
+            "type": "shell",
+            "command": "hugo serve"
+        },
+        {
+            "label": "hugo: serve drafts",
+            "type": "shell",
+            "command": "hugo -D serve",
+            "problemMatcher": [],
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
+        }
+    ]
+}

@@ -6,7 +6,7 @@ author: Nawan
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["insert your tag here"]
+tags: ["calibre", "perpustakaan", "ebook", "nearlyfreespeech", "library", "self-hosting"]
 showToc: false
 TocOpen: false
 hidemeta: false

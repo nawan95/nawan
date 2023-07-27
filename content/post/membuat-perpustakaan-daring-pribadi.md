@@ -3,7 +3,7 @@ title: "Membuat Perpustakaan Daring Pribadi dengan Calibre-web"
 date: 2023-07-27T11:01:51+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["insert your tag here"]

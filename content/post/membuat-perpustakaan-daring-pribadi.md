@@ -12,7 +12,7 @@ TocOpen: false
 hidemeta: false
 comments: false
 description: ""
-canonicalURL: "https://canonical.url/to/page"
+# canonicalURL: "https://canonical.url/to/page"
 disableShare: false
 disableHLJS: false # to disable highlight.js
 hideSummary: false

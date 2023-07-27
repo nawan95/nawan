@@ -1,5 +1,5 @@
 ---
-title: "Membuat Perpustakaan Pribadi Daring"
+title: "Membuat Perpustakaan Daring Pribadi"
 date: 2022-04-02T19:22:51+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan

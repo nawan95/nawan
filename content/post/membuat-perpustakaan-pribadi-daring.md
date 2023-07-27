@@ -20,6 +20,10 @@ searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+cover:
+    image: img/calibre-web_main_screen.png
+    alt: Tampilan antarmuka Calibre-web dengan tema default menampilkan koleksi-koleksi buku elektronik.
+    caption: Tampilan antarmuka Calibre-web dengan tema default menampilkan koleksi-koleksi buku elektronik. Lisensi GPL v3.
 ---
 
 Kita mungkin sudah tidak asing lagi dengan perpustakaan pribadi luring. Perpustakaan ini biasanya mengoleksi buku-buku fisik. Namun, seperti yang kita ketahui bahwa sekarang buku tidak hanya hadir dalam bentuk fisik tetapi juga dalam bentuk digital atau yang biasa kita sebut sebagai buku elektronik (*ebook*). Buku elektronik sendiri memiliki berbagai macam format seperti PDF, EPUB, MOBI, CBR, dan banyak lagi. Lalu bagaimana menyimpan dan mengelola buku elektronik ini? Dalam tutorial ini akan dijelaskan bagaimana membuat perpustakaan pribadi daring menggunakan perangkat lunak [Calibre-Web](https://github.com/janeczku/calibre-web).

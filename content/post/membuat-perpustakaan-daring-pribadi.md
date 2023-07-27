@@ -123,4 +123,4 @@ chmod a+x run-cps.sh
 2. Sekarang Calibre-Web seharusnya sudah berjalan di localhost pada port 8083. Namun, Calibre-Web belum bisa diakses melalui browser. Agar bisa diakses dari luar, buat *proxy* melalui *control panel*. Biarkan pilihan *protocol* dan kolom Base URI dan Document Root. Hanya ganti kolom port menjadi 8083 kemudian klik *Add Proxy*.
 
 
-Sekarang seharusnya Calibre-Web sudah dapat diakses melalui alamat di box **Site Name and Alias** dengan alamat *.nfshost.com.
+Sekarang seharusnya Calibre-Web sudah dapat diakses melalui alamat di box **Site Name and Alias** yaitu namasitus.nfshost.com dengan *namasitus* merujuk pada nama situs yang kamu masukkan saat membuat situs baru di NFSN. Misalnya jika nama situs adalah *perpustakaan* maka alamatnya adalah perpustakaan.nfshost.com.

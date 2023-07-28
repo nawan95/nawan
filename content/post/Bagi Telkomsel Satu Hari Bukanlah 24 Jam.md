@@ -11,7 +11,7 @@ showToc: false
 TocOpen: false
 hidemeta: false
 comments: false
-description: "Dengan tidak memberikan keterangan yang jelas bahwa satu hari tidak berarti 24 jam penuh, Telkomsel secara sadar melakukan tipu daya terhadap konsumen, atau dengan kata lain: penipuan."
+description: "Dengan tidak memberikan keterangan yang jelas bahwa satu hari tidak berarti 24 jam penuh, Telkomsel secara sadar melakukan tipu daya terhadap konsumen."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false
 disableHLJS: false # to disable highlight.js

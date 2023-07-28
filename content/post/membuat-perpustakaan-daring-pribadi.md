@@ -11,7 +11,7 @@ showToc: false
 TocOpen: false
 hidemeta: false
 comments: false
-description: ""
+description: "Membuat perpustakaan daring pribadi menggunakan perangkat lunak Calibre-web dengan NearlyFreeSpeech.Net sebagai penyedia hosting web."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false
 disableHLJS: false # to disable highlight.js

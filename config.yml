@@ -106,6 +106,8 @@ params:
           url: "https://discordapp.com/users/768101555169656833"
         - name: steam
           url: "https://steamcommunity.com/id/sergiuv/"
+        - name: rss
+          url: "index.xml"
 
 taxonomies:
     category: categories

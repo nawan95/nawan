@@ -83,7 +83,7 @@ params:
         enabled: true
         title: # optional default will be site title
         subtitle: "Hanya seorang mahasiswa kupu-kupu, menghabiskan waktu dengan rebahan dan menumpuk daftar tontonan Netflix. Sesekali mampir ke Wikipedia."
-        imageUrl: "me.jpg" # optional
+        imageUrl: "nawan.png" # optional
         imageTitle: "Ini adalah foto Nawan" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size

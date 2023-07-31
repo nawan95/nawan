@@ -32,19 +32,14 @@ Hari ini atau 28 Juli 2023 pukul 19.23 WIB, saya menukarkan 1 Telkomsel Poin dan
 
 {{< figure align=center src="/img/Screenshot_2023-07-28-23-36-23-92_0ce57feeccaa51fb7deed04b4dbda235.jpg" alt="Tangkapan layar yang menampilkan SMS notfikasi dari 777 yang berbunyi: terima kasih anda sudah tukar 1 Poin + Rp.10 dengan paket internet 17 GB 1 hari berlaku hingga hari ini pukul 23.59." caption="Tangkapan layar SMS notifikasi dari 777 yang menampilkan bahwa aktivasi paket 17 GB selama 1 hari dengan masa berlaku 23.59." >}}
 
-Ini kemudian memunculkan pertanyaan: satu hari itu terdiri dari berapa jam? Mungkin kalian berpikir satu hari terdiri dari 24 jam. Saat saya membeli paket tersebut saya pun juga berpikir demikian. Namun, untuk memastikan saya berkonsultasi kepada mesin pencari Google dan BingAI, mesin pencari Microsoft berbasis kecerdasan buatan GPT-4.
-
-Hasil pencarian dengan kata kunci “satu hari itu berapa” memunculkan hasil bahwa satu hari adalah 24 jam. Hasil pencarian tersebut bersumber dari salah satu artikel Liputan6.com. Sedangkan BingAI saat saya menanyakan apakah satu hari setara dengan 24 jam, BingAI memberikan jawaban bahwa “Ya, benar. Satu hari kalender terdiri dari 24 jam”.
+Sehingga dalam kasus saya, karena saya membeli paket pada tanggal 28 Juli 2023 pukul 19.23 WIB, maka paket tersebut berlaku sampai tanggal 28 Juli 2023 pada pukul 23.59 WIB. Hal ini berarti bahwa saya hanya bisa menggunakan paket tersebut selama kurang dari 5 jam sebelum paket internet tersebut hangus. Padahal saat saya membeli paket tertulis bahwa masa aktif paket adalah 1 hari tanpa keterangan lebih lanjut apakah masa aktif 1 hari tersebut adalah 24 jam setelah aktivasi paket atau tidak.
 
 {{< figure align=center src="/img/penelusuran-google-satu-hari-itu-berapa.png" alt="Tangkapan layar yang menampilkan hasil pencarian Google dengan kata kunci satu hari berapa yang menampilkan hasil bahwa satu hari adalah 24 jam." caption="Hasil pencarian Google menunjukkan bahwa satu hari adalah 24 jam." >}}
 
+Saya sangat kecewa dengan hal ini. Dengan tidak memberikan keterangan yang jelas terkait masa aktif sebuah paket internet, Telkomsel telah melakukan pengelabuan (deception) terhadap konsumen. Bagaimana konsumen tahu jika ternyata 1 hari yang dimaksud bukanlah 24 jam jika hal tersebut tidak tercantum sama sekali dalam deskripsi maupun syarat dan ketentuan paket internet?
+
 {{< figure align=center src="/img/Screenshot_2023-07-28 at 22-32-23_Bing_AI - Bing.png" alt="Tangkapan layar yang menampilkan jawaban dari Bing AI: Ya, benar. Satu hari terdiri dari 24 jam." caption="BingAI menjawab bahwa satu hari adalah 24 jam." >}}
 
-Tapi tunggu dulu, mungkin saya salah memaknai kata hari? Saya mencari lema “hari” di KBBI Daring dan muncul hasil sebagai berikut:
-1. _n_ waktu dari pagi sampai pagi lagi (yaitu satu edaran bumi pada sumbunya, 24 jam): _seminggu ada tujuh --_
-2. _n_ waktu selama matahari menerangi tempat kita (dari matahari terbit sampai matahari terbenam): _sesudah berlayar satu -- tibalah kami di pulau itu_
-3. _n_ keadaan (udara, alam, dan sebagainya) yang terjadi dalam waktu 24 jam: _kalau -- mendung, saya tidak datang__;_ _\-- baru pukul enam petang_
-4. _n_ waktu selama jam kerja berlangsung: _pekerjaan ini diselesaikan dalam waktu lima --_
-5. _n_ waktu atau masa (yang lampau, yang akan datang, dan sebagainya): _\-- depan negara kita terletak di tangan para pemuda_
+Padahal Pasal 7 huruf b Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen menyebutkan bahwa pelaku usaha wajib "memberikan informasi yang benar, jelas dan jujur mengenai kondisi dan jaminan barang dan/atau jasa serta memberi penjelasan penggunaan, perbaikan dan pemeliharaan".
 
-Hasil KBBI untuk lema “hari” dua kali secara eksplisit menyebutkan 24 jam. Maka dari itu saya masih tidak habis pikir bagaimana paket internet yang tertulis berlaku satu hari ternyata bukan 24 jam. Bahkan tidak ada keterangan yang merinci hal ini sama sekali. Bukankah dengan tidak memberikan keterangan yang jelas, Telkomsel secara langsung melakukan tipu daya atau [muslihat](https://id.wikipedia.org/wiki/Muslihat "https://id.wikipedia.org/wiki/Muslihat") (_[deception](https://en.wikipedia.org/wiki/Deception "https://en.wikipedia.org/wiki/Deception")_)?
+Saya menyadari bahwa kerugian yang saya alami mungkin memang tidak seberapa, tetapi tanpa iktikad baik dari Telkomsel untuk berbenah dan mengintropeksi diri, tidak menutup kemungkinan bahwa di masa depan, hal yang sama akan kembali terulang kepada saya atau pengguna Telkomsel lain dengan nilai kerugian yang jauh lebih besar. 

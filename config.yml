@@ -81,9 +81,9 @@ params:
 
     profileMode:
         enabled: true
-        title: # optional default will be site title
-        subtitle: "Hanya seorang mahasiswa kupu-kupu, menghabiskan waktu dengan rebahan dan menumpuk daftar tontonan Netflix. Sesekali mampir ke Wikipedia."
-        imageUrl: "me.jpg" # optional
+        title: Halo 👋 # optional default will be site title
+        subtitle: "Saya seorang mahasiswa humaniora dan kontributor di Wikipedia. Saat ini kamu sedang melihat situs dan blog pribadi saya. Kamu dapat membayangkan situs ini sebagai semacam buku harian yang dapat dibaca semua orang di internet."
+        imageUrl: "nawan.png" # optional
         imageTitle: "Ini adalah foto Nawan" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
@@ -106,6 +106,8 @@ params:
           url: "https://discordapp.com/users/768101555169656833"
         - name: steam
           url: "https://steamcommunity.com/id/sergiuv/"
+        - name: rss
+          url: "index.xml"
 
 taxonomies:
     category: categories

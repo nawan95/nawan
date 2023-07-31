@@ -7,6 +7,7 @@ draft: true
 # weight: 1
 # aliases: ["/first"]
 tags: ["film", "review", "gender", "queer", "lgbt"]
+categories: "Film & TV"
 showToc: false
 TocOpen: false
 hidemeta: false

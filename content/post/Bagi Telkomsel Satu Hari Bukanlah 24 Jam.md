@@ -8,6 +8,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["telkomsel", "telkom", "penipuan", "internet"]
+categories: "Sindiran"
 showToc: false
 TocOpen: false
 hidemeta: false

@@ -11,6 +11,7 @@ tags:
 - sekolah
 - kurikulum
 - indonesia"
+categories: "Pendidikan"
 showToc: false
 TocOpen: false
 hidemeta: false

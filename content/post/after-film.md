@@ -14,6 +14,7 @@ tags:
 - Hero Fiennes-Tiffin
 - Ulasan
 - Wattpad
+categories: "Film & TV"
 cover:
     image: "img/after-cover.png"
     alt: "Ini adalah poster promosi film After yang menampilkan Hero Fiennes-Tiffin sebagai Hardin Scott"

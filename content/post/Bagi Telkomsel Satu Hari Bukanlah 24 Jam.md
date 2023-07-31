@@ -1,6 +1,7 @@
 ---
 title: "Bagi Telkomsel Satu Hari Bukanlah 24 Jam"
 date: 2023-07-28T23:29:21+07:00
+lastmod: 2023-07-31T07:27:21+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan
 draft: false

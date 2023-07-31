@@ -6,6 +6,7 @@ author: Nawan Tabah Pangestu
 draft: false
 # weight: 1
 # aliases: ["/first"]
+categories: "Sembarang"
 tags:
 - KKL
 - badui

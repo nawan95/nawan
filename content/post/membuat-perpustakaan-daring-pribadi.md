@@ -6,6 +6,7 @@ author: Nawan
 draft: false
 # weight: 1
 # aliases: ["/first"]
+categories: "Tutorial"
 tags: ["calibre", "perpustakaan", "ebook", "nearlyfreespeech", "library", "self-hosting"]
 showToc: false
 TocOpen: false

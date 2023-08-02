@@ -8,6 +8,9 @@ enableEmoji: true
 enableRobotsTXT: true
 enableInlineShortcodes: true
 enableGitInfo: false
+relativeURLs: true
+canonifyURLs: true
+uglyURLs: false
 permalinks:
    posts: /:slug/
 

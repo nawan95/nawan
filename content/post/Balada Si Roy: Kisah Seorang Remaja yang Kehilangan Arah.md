@@ -3,7 +3,7 @@ title: "Balada Si Roy: Kisah Seorang Remaja yang Kehilangan Arah"
 date: 2023-08-04T20:32:30+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["film", "Balada Si Roy", "Ulasan", "Gol A Gong"]

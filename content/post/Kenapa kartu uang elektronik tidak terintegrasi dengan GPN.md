@@ -7,6 +7,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["BRI", "kartu uang elektronik", "e-money", "GPN", "QRIS", "dompet elektronik", "e-wallet"]
+categories: ["Sindiran", "Teknologi"]
 showToc: false
 TocOpen: false
 hidemeta: false

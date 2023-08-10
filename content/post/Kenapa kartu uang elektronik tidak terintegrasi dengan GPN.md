@@ -1,5 +1,5 @@
 ---
-title: "Kenapa Kartu Uang Elektronik Tidak Terintegrasi Dengan GPN"
+title: "Kenapa Kartu Uang Elektronik Tidak Terintegrasi Dengan GPN?"
 date: 2023-08-10T18:10:43+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan

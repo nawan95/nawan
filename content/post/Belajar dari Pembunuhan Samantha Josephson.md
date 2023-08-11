@@ -1,5 +1,5 @@
 ---
-title: "Belajar Dari Pembunuhan Samantha Josephson"
+title: "Belajar dari Pembunuhan Samantha Josephson"
 date: 2023-08-11T18:24:07+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan

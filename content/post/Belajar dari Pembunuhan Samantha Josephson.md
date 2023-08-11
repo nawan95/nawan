@@ -7,6 +7,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["gojek", "grab", "uber", "ojek online", "ojol", "taksi online", "ridesharing", "pembunuhan", "kriminalitas"]
+categories: "Sembarang"
 showToc: false
 TocOpen: false
 hidemeta: false

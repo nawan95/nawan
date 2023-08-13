@@ -1,4 +1,4 @@
-baseURL: https://nawan.my.id/
+baseURL: https://dev.nawan.pages.dev/
 defaultContentLanguage: id
 title: NAWAN
 author:
@@ -57,6 +57,7 @@ outputs:
         - JSON
 
 params:
+    env: development
     author: Nawan Pangestu
     defaultTheme: auto
     description: "Tempat peristirahatan terakhir bagi kata-kata"

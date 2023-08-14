@@ -11,7 +11,7 @@ tags: ["calibre", "perpustakaan", "ebook", "nearlyfreespeech", "library", "self-
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Membuat perpustakaan daring pribadi menggunakan perangkat lunak Calibre-web dengan NearlyFreeSpeech.Net sebagai penyedia hosting web."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

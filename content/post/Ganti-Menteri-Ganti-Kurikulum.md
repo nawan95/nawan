@@ -15,7 +15,7 @@ categories: "Pendidikan"
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Sudah menjadi rahasia umum bahwa kurikulum di Indonesia terus berganti dalam rentang waktu yang singkat. Kenapa?"
 #canonicalURL: "https://canonical.url/to/page"
 disableShare: false

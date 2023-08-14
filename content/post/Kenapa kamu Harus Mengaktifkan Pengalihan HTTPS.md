@@ -11,7 +11,7 @@ categories: Teknologi
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Selama ISP masih menginjeksi iklan ke situs web, sebaiknya aktifkan HTTPS."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

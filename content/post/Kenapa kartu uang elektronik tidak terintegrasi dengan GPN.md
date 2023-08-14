@@ -11,7 +11,7 @@ categories: ["Sindiran", "Teknologi"]
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Kartu uang elektronik atau e-money menawarkan pembayaran yang praktis, tapi semua terasa sia-sia tanpa integrasi ke Gerbang Pembayaran Nasional."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

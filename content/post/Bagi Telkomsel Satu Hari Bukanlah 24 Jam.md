@@ -12,7 +12,7 @@ categories: "Sindiran"
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Dengan tidak memberikan keterangan yang jelas bahwa satu hari tidak berarti 24 jam penuh, Telkomsel secara sadar melakukan tipu daya terhadap konsumen."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

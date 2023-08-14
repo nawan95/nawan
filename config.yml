@@ -69,7 +69,7 @@ params:
     ShowShareButtons: true
     ShowReadingTime: true
     ShowPostNavLinks: true
-    comments: false
+    comments: true
     hidemeta: false
     hideSummary: false
     showtoc: false

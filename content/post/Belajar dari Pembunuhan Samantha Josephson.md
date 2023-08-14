@@ -11,7 +11,7 @@ categories: "Sembarang"
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Pembunuhan Samantha Josephson mengingatkan kita bahwa ada celah dalam regulasi ojek online (ridesharing) yang bisa dimanfaatkan untuk tindak kejahatan."
 #canonicalURL: "https://canonical.url/to/page"
 disableShare: false

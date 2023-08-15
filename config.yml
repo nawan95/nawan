@@ -114,17 +114,17 @@ params:
 
     isso:
         enabled: true
-            data: https://isso.nfshost.com/
-            id: thread-id
+            data: "https://isso.nfshost.com/"
+            id: "thread-id"
             css: true
-            cssUrl: https://dev.nawan.pages.dev/assets/css/isso/isso.css
-            lang: id
+            cssUrl: "https://dev.nawan.pages.dev/assets/css/isso/isso.css"
+            lang: "id"
             replyToSelf: true
             requireAuthor: true
             requireEmail: false
             avatar: true
             avatar-bg: "#f0f0f0"
-            jsLocation: https://isso.nfshost.com/js/embed.min.js
+            jsLocation: "https://isso.nfshost.com/js/embed.min.js"
 
 
 taxonomies:

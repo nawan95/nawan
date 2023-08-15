@@ -116,8 +116,7 @@ params:
         enabled: true
         data: "https://isso.nfshost.com/"
         id: "thread-id"
-        css: true
-        cssUrl: "https://dev.nawan.pages.dev/assets/css/isso/isso.css"
+        css: false
         lang: "id"
         replyToSelf: true
         requireAuthor: true

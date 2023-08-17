@@ -3,7 +3,7 @@ title: "Memaknai Peran Kontribusi Individual Terhadap Negara Dalam Konteks Kemer
 date: 2023-08-17T22:16:12+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["indonesia", "merdeka", "HUT RI", "patriotisme"]
@@ -11,7 +11,7 @@ categories: Sembarang
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Esai singkat memperingati Hari Kemerdekaan Republik Indonesia Ke-78."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

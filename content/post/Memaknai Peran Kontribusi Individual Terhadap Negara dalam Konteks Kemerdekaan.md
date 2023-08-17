@@ -1,5 +1,5 @@
 ---
-title: "Memaknai Peran Individu Terhadap Negara Dalam Konteks Kemerdekaan"
+title: "Memaknai Peran Individu Terhadap Negara"
 date: 2023-08-17T22:16:12+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan

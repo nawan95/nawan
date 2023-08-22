@@ -31,10 +31,10 @@ Tadi saya ingin mengirimkan sebuah pranala ke sebuah postingan X (Twitter) ke te
 
 Sekadar informasi, selama ini saya menggunakan peramban Firefox, baik di laptop maupun di Android. Awalnya saya curiga ini adalah masalah terkait *web compatibility* yang hanya terjadi di Firefox sehingga saya mencari petunjuk tentang masalah ini di repositori Github proyek [Webcompat](https://webcompat.com/).
 
-Dari pencarian saya tersebut, saya menemukan saya menemukan *issu* nomor [#125920](https://github.com/webcompat/web-bugs/issues/125920). Sesuai dugaan awal saya, masalah ini tampaknya terkait dengan *web compatibility*. Masalah ini terjadi baik di Windows, MacOS, dan Linux. Masalah ini masih dalam investigasi sehingga belum jelas apa yang menyebabkan hal ini.
+Dari pencarian saya tersebut, saya menemukan saya menemukan *issue* nomor [#125920](https://github.com/webcompat/web-bugs/issues/125920). Sesuai dugaan awal saya, masalah ini tampaknya terkait dengan *web compatibility*. Masalah ini terjadi baik di Windows, MacOS, dan Linux. Masalah ini masih dalam investigasi sehingga belum jelas apa yang menyebabkan hal ini.
 
 ## Lalu, apa yang harus saya lakukan?
-Jika kamu menggunakan peramban Firefox, kemungkinan besar kamu akan terdampak oleh *bug* ini. Namun seseorang pengguna bernama Pablo A di Superuser menemukan solusi yang dapat digunakan untuk sementara waktu hingga masalah atau *bug* ini diatasi.
+Jika kamu menggunakan peramban Firefox, kemungkinan besar kamu akan terdampak oleh *bug* ini. Namun seseorang pengguna bernama Pablo A di Superuser menemukan [solusi](https://superuser.com/a/1804675) yang dapat digunakan untuk sementara waktu hingga masalah atau *bug* ini diatasi.
 
 Pertama, buka editor konfigurasi Firefox dengan mengetikkan `about:config` di bilah alamat atau *address bar*. Kamu mungkin akan mendapati halaman berisi peringatan bahwa mengubah pengaturan tingkat lanjut dapat mempengaruhi performa dan keamanan, cukup abaikan saja dan klik tombol "Terima risiko dan lanjutkan" karena di sini kita tahu apa yang ingin kita lakukan.
 

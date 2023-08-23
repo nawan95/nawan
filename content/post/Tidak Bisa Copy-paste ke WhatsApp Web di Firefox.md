@@ -1,6 +1,7 @@
 ---
 title: "Tidak Bisa Copy Paste ke WhatsApp Web di Firefox"
 date: 2023-08-22T22:13:52+07:00
+lastmod: 2023-08-23T09:22:40+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan
 draft: false
@@ -46,3 +47,18 @@ Seperti yang saya sebutkan sebelumnya, solusi tersebut bersifat sementara atau [
 Jujur saja, sebagai pengguna Firefox isu-isu terkait *web compatibility* sering terjadi di Firefox. Misalnya seperti situs pendaftaran rekening Bank Mandiri yang tidak bisa diakses menggunakan Firefox di Android. Menurunnya *market share* Firefox dan dominasi Google Chrome serta banyaknya peramban yang menggunakan basis sumber terbuka Google Chrome (Chromium) membuat para pengembang web tidak perlu repot-repot untuk mengetes situs web mereka di Firefox, karena toh mayoritas pasti menggunakan Google Chrome atau peramban alternatif berbasis Chromium.
 
 Terkait masalah tidak bisa *copy-paste* ke WhatsApp Web di Firefox, satu-satunya yang bisa dilakukan adalah dengan menggunakan solusi sementara di atas sambil menunggu pembaharuan Firefox yang berisi perbaikan atas masalah ini.
+
+---
+
+***Update***: Jadi *issue* [#125920](https://github.com/webcompat/web-bugs/issues/125920) di repositori [webcompat/web-bugs](https://github.com/webcompat/web-bugs) telah ditutup oleh Dennis Schubert ([Denscub])(https://github.com/denschub), 11 jam yang lalu. Mengutip postingan terakhir Dennis Schubert di Github:
+
+> I'm locking this issue, as nobody seemed to care about my previous comment where I said:
+> > Please stop commenting new "me too"s. We know what the issue is, and as per this comment, WhatsApp has already built a fix and is working on deploying it.
+> > There is no need for more reports.
+> > Let's please keep this issue low-noise so that we can figure out if there is something that needs to change in Firefox to make our behavior less surprising.
+> we don't need additional reports about this, and WhatsApp is rolling out a fix as stated multiple time.
+> This isn't related to any specific Firefox version or Firefox update.
+> It'll start working again once you've received the WhatsApp update.
+> Please don't file another reports about paste-issues on WhatsApp - be patient until they have fully rolled out the patch.
+
+Selain itu saya dapat mengonfirmasi bahwa setelah pembaharuan WhatsApp Web, sekarang saya telah bisa menempel teks atau gambar ke WhatsApp Web di Firefox.

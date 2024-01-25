@@ -3,7 +3,7 @@ title: "Surat Terbuka untuk Narablog"
 date: 2024-01-25T22:51:06+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags:

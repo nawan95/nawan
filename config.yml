@@ -81,14 +81,9 @@ params:
         apple_touch_icon: "apple-touch-icon.png"
         disableFingerprinting: true
 
-    profileMode:
-        enabled: true
-        title: Halo 👋 # optional default will be site title
-        subtitle: "Saya seorang mahasiswa humaniora dan kontributor di Wikipedia. Saat ini kamu sedang melihat situs dan blog pribadi saya. Kamu dapat membayangkan situs ini sebagai semacam buku harian yang dapat dibaca semua orang di internet."
-        imageUrl: "nawan.webp" # optional
-        imageTitle: "Ini adalah foto Nawan" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
+    homeInfoParams:
+        Title: Halo 👋 # optional default will be site title
+        Content: "Saya seorang mahasiswa humaniora dan kontributor di Wikipedia. Saat ini kamu sedang melihat situs dan blog pribadi saya. Kamu dapat membayangkan situs ini sebagai semacam buku harian yang dapat dibaca semua orang di internet."
         buttons:
             - name: Postingan
               url: post

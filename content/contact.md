@@ -1,6 +1,6 @@
 ---
 title: Hubungi saya
-layout: singe
+hidemeta: true
 ---
 
 Saya bisa dihubungi melalui surel di [saya@nawan.my.id](mailto:saya@nawan.my.id).

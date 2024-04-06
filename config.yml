@@ -37,6 +37,9 @@ languages:
                - name: Arsip
                  url: archives
                  weight: 5
+               - name: Kategori
+                 url: categories
+                 weight: 5
                - identifier: contact
                  name: Hubungi
                  url: contact

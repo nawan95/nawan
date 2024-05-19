@@ -1,18 +1,19 @@
 ---
-title: "Enpass"
+title: "Enpass Password Manager"
 date: 2024-05-19T12:24:27+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["insert your tag here"]
-showToc: false
-TocOpen: false
+categories: "Teknologi"
+tags: ["password manager"]
+showToc: true
+TocOpen: true
 hidemeta: false
 comments: false
 description: ""
-canonicalURL: "https://canonical.url/to/page"
+# canonicalURL: "https://canonical.url/to/page"
 disableShare: false
 disableHLJS: false # to disable highlight.js
 hideSummary: false

@@ -29,7 +29,7 @@ Mungkin ini hanyalah perubahan sepele tapi entah kenapa saya merasa ingin mengum
 
 Sekadar informasi, sebelum 6 April 2024, blog ini menggunakan 2 pelacak web yaitu [Umami](https://umami.is) dan [GoatCounter](https://www.goatcounter.com/). Tapi kemudian saya menyadari bahwa saya tidak pernah melihat apalagi menggunakan data yang dihasilkan oleh Umami dan GoatCounter dari blog ini. Mungkin saja karena saya tidak mengidentifikasi diri sebagai kreator konten sehingga saya tidak terlalu peduli soal berapa banyak atau bagaimana perilaku pengunjung blog ini.
 
-{{< figure src="https://imgs.xkcd.com/comics/blogging.png" caption="XKCD #741: Blogging" attr="Randall Munroe" class="center" >}}
+{{< figure src="img/blogging.png" caption="XKCD #741: Blogging" attr="Randall Munroe" class="center" >}}
 
 Mayoritas warganet *mungkin* tidak terlalu peduli dengan pelacak web atau malah tidak menyadari bahwa situs yang mereka kunjungi memiliki pelacak web. Situs Project Multatuli yang didirikan oleh Mbak Evi Mariani dan Mas Fahri Salam misalnya walaupun [memiliki pelacak web](https://themarkup.org/blacklight?url=projectmultatuli.org%2F&device=desktop&location=us&force=false) yang mengirimkan data pengunjung web ke Alphabet, perusahaan induk Google, tapi saya berani mengatakan bahwa banyak orang yang mengunjungi situs Project Multatuli untuk sekadar membaca artikel mereka. Di sini saya tidak bermaksud untuk melarang orang untuk mengunjungi situs Project Multatuli, saya hanya ingin menunjukkan bahwa bagi sebagian besar warganet, pelacak web bukan masalah besar, bahkan saat pelacak web itu mengirimkan data ke Facebook atau Alphabet.
 

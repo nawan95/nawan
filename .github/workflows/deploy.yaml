@@ -27,7 +27,7 @@ jobs:
           server: ${{ secrets.SERVER }}
           remote_user: ${{ secrets.USERNAME }}
           remote_port: ${{ secrets.PORT }}
-          remote_path: "/path/to/your/hugo/site"
+          remote_path: "/home/nawanmyi/domains/nawan.my.id/public_html"
           local_path: "./public"
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           args: "--delete"

@@ -1,0 +1,33 @@
+name: Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - main  # Adjust the branch name if needed
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.113.0'
+
+      - name: Build Hugo Site
+        run: hugo --minify
+
+      - name: Deploy to Server
+        uses: easingthemes/ssh-deploy@v2
+        with:
+          server: ${{ secrets.SERVER }}
+          remote_user: ${{ secrets.USERNAME }}
+          remote_port: ${{ secrets.PORT }}
+          remote_path: "/path/to/your/hugo/site"
+          local_path: "./public"
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          args: "--delete"

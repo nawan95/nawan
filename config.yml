@@ -98,7 +98,7 @@ params:
               url: categories
 
     socialIcons:
-        - name: twitter
+        - name: X
           url: "https://twitter.com/nawanpangestu95"
         - name: instagram
           url: "https://www.instagram.com/nawanpangestu95/"

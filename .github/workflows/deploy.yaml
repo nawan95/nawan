@@ -3,7 +3,7 @@ name: Deploy Hugo Site
 on:
   push:
     branches:
-      - master  # Adjust the branch name if needed
+      - master # Adjust the branch name if needed
 
 jobs:
   deploy:
@@ -20,7 +20,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.121.2'
+          hugo-version: "0.121.2"
+          extended: true
 
       - name: Build Hugo Site
         run: hugo

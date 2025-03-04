@@ -98,8 +98,6 @@ params:
               url: categories
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/nawanpangestu95"
         - name: instagram
           url: "https://www.instagram.com/nawanpangestu95/"
         - name: github

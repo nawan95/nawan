@@ -1,0 +1,5 @@
+static/img/*
+static/*.png
+static/*.jpg
+static/*.ico
+static/*.webp

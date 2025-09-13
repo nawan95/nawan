@@ -1,0 +1,58 @@
+---
+
+- name: Deploy from this repository
+  hosts: hostbrr
+  remote_user: nawanmyi
+  become: no
+  vars:
+    fossil_repo_url: "https://repo.nawan.my.id/www"
+    repo_clone_dir: "/home/nawanmyi/domains/nawan.my.id"
+    hugo_output_dir: "/home/nawanmyi/domains/nawan.my.id/public_html"
+    hugo_base_url: "https://nawan.my.id"
+    fossil_version: "2.25"
+    hugo_version: "0.126.2"
+
+  tasks:
+    - name: Mengecek versi fossil terpasang
+      command: "fossil version"
+      register: fossil_installed_version
+
+    - name: Mengecek versi Hugo terpasang
+      command: "hugo version"
+      register: hugo_installed_version
+
+    - name: Mengunduh fossil
+      ansible.builtin.unarchive:
+        src: "https://fossil-scm.org/home/uv/fossil-linux-x64-{{ fossil_version }}.tar.gz"
+        dest: "/home/nawanmyi/.local/bin"
+        remote_src: yes
+      when: fossil_installed_version.stdout.find('{{ fossil_version }}') == -1
+
+    - name: Mengunduh hugo
+      ansible.builtin.unarchive:
+        src: "https://github.com/gohugoio/hugo/releases/download/v{{ hugo_version }}/hugo_extended_{{ hugo_version }}_linux-amd64.deb"
+        dest: "/home/nawanmyi/.local/bin"
+        remote_src: yes
+        include: hugo
+      when: hugo_installed_version.stdout.find('{{ hugo_version }}') == -1
+
+    - name: Mengkloning repositori
+      command:
+        cmd: "fossil clone {{ fossil_repo_url }} {{ repo_clone_dir }}/www.fossil"
+        creates: "{{ repo_clone_dir }}/www.fossil"
+
+    - name: Membuka worktree dari repositori
+      command:
+        cmd: "fossil open {{ repo_clone_dir }}/www.fossil --workdir {{ repo_clone_dir }}/www"
+        creates: "{{ repo_clone_dir }}/www"
+
+    - name: Memperbaharui repositori
+      command: "fossil update"
+      args:
+        chdir: "{{ repo_clone_dir }}/www"
+        removes: "{{ repo_clone_dir }}/www"
+
+    - name: Mengkompilasi situs
+      command: "hugo -d {{ hugo_output_dir }} -b {{ hugo_base_url }}"
+      args:
+        chdir: "{{ repo_clone_dir }}/www"

@@ -2,113 +2,111 @@ baseURL: https://nawan.my.id/
 defaultContentLanguage: id
 title: NAWAN
 author:
-   name: Nawan
+  name: Nawan
 theme: "PaperMod"
 enableEmoji: true
 enableRobotsTXT: true
 enableInlineShortcodes: true
 enableGitInfo: false
-paginate: 5
+pagination:
+  pagerSize: 5
 permalinks:
-   posts: /:slug/
-
-
+  posts: /:slug/
 
 frontmatter:
-   date:
+  date:
     - date
     - publishDate
-   lastmod:
+  lastmod:
     - lastmod
     - :git
     - date
     - publishDate
-   publishDate:
+  publishDate:
     - publishDate
     - date
 
-
-
 languages:
-   id:
-       languageName: "Bahasa Indonesia"
-       weight: 1
-       menu:
-           main:
-               - name: Arsip
-                 url: archives
-                 weight: 5
-               - name: Kategori
-                 url: categories
-                 weight: 5
-               - identifier: contact
-                 name: Hubungi
-                 url: contact
-               - name: Pencarian
-                 url: search/
-                 weight: 10
-               - name: Label
-                 url: tags/
-                 weight: 10
-               - identifier: pgp
-                 name: PGP Key
-                 url: pubkey/pgp_keys.txt
+  id:
+    languageName: "Bahasa Indonesia"
+    weight: 1
+    menu:
+      main:
+        - name: Arsip
+          url: archives
+          weight: 5
+        - name: Kategori
+          url: categories
+          weight: 5
+        - identifier: contact
+          name: Hubungi
+          url: contact
+        - name: Pencarian
+          url: search/
+          weight: 10
+        - name: Label
+          url: tags/
+          weight: 10
+        - identifier: pgp
+          name: PGP Key
+          url: pubkey/pgp_keys.txt
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 params:
-    author: Nawan Pangestu
-    defaultTheme: auto
-    description: "Tempat peristirahatan terakhir bagi kata-kata"
-    keywords: [blog, wikipedia, nawan]
-    DateFormat: "2 January 2006"
-    disableThemeToggle: false
-    ShowRssButtonInSectionTermList: true
+  author: Nawan Pangestu
+  defaultTheme: auto
+  description: "Tempat peristirahatan terakhir bagi kata-kata"
+  keywords: [blog, wikipedia, nawan]
+  DateFormat: "2 January 2006"
+  disableThemeToggle: false
+  ShowRssButtonInSectionTermList: true
 
-    ShowShareButtons: true
-    ShowReadingTime: true
-    ShowPostNavLinks: true
-    comments: false
-    hidemeta: false
-    hideSummary: false
-    showtoc: false
-    tocopen: false
-    
-    cover:
-        hiddenInList: true
+  ShowShareButtons: true
+  social: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
 
-    assets:
-        favicon: "favicon.ico"
-        favicon16x16: "favicon-16x16.ico"
-        favicon32x32: "favicon-32x32.ico"
-        apple_touch_icon: "apple-touch-icon.png"
-        disableFingerprinting: true
+  cover:
+    hiddenInList: true
 
-    homeInfoParams:
-        Title: Halo 👋 # optional default will be site title
-        Content: "Saya seorang mahasiswa humaniora dan kontributor di Wikipedia. Saat ini kamu sedang melihat situs dan blog pribadi saya. Kamu dapat membayangkan situs ini sebagai semacam buku harian yang dapat dibaca semua orang di internet."
-        buttons:
-            - name: Postingan
-              url: post
-            - name: Kategori
-              url: categories
+  assets:
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.ico"
+    favicon32x32: "favicon-32x32.ico"
+    apple_touch_icon: "apple-touch-icon.png"
+    disableFingerprinting: true
 
-    socialIcons:
-        - name: instagram
-          url: "https://www.instagram.com/nawanpangestu95/"
-        - name: github
-          url: "https://github.com/nawan95"
-        - name: discord
-          url: "https://discordapp.com/users/768101555169656833"
-        - name: steam
-          url: "https://steamcommunity.com/id/sergiuv/"
-        - name: rss
-          url: "index.xml"
+  homeInfoParams:
+    Title: Halo 👋 # optional default will be site title
+    Content: "Saya seorang mahasiswa humaniora dan kontributor di Wikipedia. Saat ini kamu sedang melihat situs dan blog pribadi saya. Kamu dapat membayangkan situs ini sebagai semacam buku harian yang dapat dibaca semua orang di internet."
+    buttons:
+      - name: Postingan
+        url: post
+      - name: Kategori
+        url: categories
+
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/nawanpangestu95/"
+    - name: github
+      url: "https://github.com/nawan95"
+    - name: discord
+      url: "https://discordapp.com/users/768101555169656833"
+    - name: steam
+      url: "https://steamcommunity.com/id/sergiuv/"
+    - name: rss
+      url: "index.xml"
 
 taxonomies:
-    category: categories
-    tag: tags
+  category: categories
+  tag: tags

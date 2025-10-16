@@ -96,8 +96,6 @@ params:
         url: categories
 
   socialIcons:
-    - name: instagram
-      url: "https://www.instagram.com/nawanpangestu95/"
     - name: github
       url: "https://github.com/nawan95"
     - name: discord

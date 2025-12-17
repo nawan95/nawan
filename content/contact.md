@@ -40,9 +40,8 @@ If you decide to contact me via XMPP, make sure that end-to-end encryption (OMEM
 76020D9D 06D4BAFA 0475584F 2967EB49 97D47F07 59D412D0 52BFF98F C57C575B
 8641C1F4 C2683F74 91641685 0D6135A6 69591FF4 C3DE5761 A700566B BE6EFE7C
 ```
-
-For Wikipedia-related matters, I can also be contacted via the talk pages at [Indonesian Wikipedia](https://id.wikipedia.org/wiki/Pembicaraan_Pengguna:NawanP) or [Wikimedia Meta-wiki](https://meta.wikimedia.org/wiki/User_talk:NawanP).
-
 If what you want to send via email is private, you can encrypt it using my PGP public key. My PGP public key can be downloaded [here](https://nawan.my.id/pubkey/pgp_keys.txt)
 If you are currently using a MacOS or Linux operating system and are comfortable and familiar with using the command line interface,
 you can download it using the wget or curl command.
+
+For Wikipedia-related matters, I can also be contacted via the talk pages at [Indonesian Wikipedia](https://id.wikipedia.org/wiki/Pembicaraan_Pengguna:NawanP) or [Wikimedia Meta-wiki](https://meta.wikimedia.org/wiki/User_talk:NawanP).

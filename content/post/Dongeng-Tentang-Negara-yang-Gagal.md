@@ -7,6 +7,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["rasisme","rasialisme","diskriminasi","guru","pendidikan"]
+categories: "Film & TV"
 showToc: false
 TocOpen: false
 hidemeta: false

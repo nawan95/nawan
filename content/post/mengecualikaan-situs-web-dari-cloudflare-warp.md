@@ -7,6 +7,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["insert your tag here"]
+categories: "Tutorial"
 showToc: false
 TocOpen: false
 hidemeta: false

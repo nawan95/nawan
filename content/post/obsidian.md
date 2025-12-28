@@ -1,6 +1,6 @@
 ---
 title: "Obsidian"
-date: 2025-12-28T18:52:58+07:00
+date: 2025-12-28T18:37:58+07:00
 # author: ["Me", "You"] # multiple authors
 author: Nawan
 draft: false

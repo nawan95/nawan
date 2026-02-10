@@ -13,9 +13,9 @@ Saya bisa dihubungi melalui berbagai kanal telekomunikasi, namun cara paling mud
 Jika menghubungi saya melalui XMPP, pastikan bahwa enkripsi ujung-ke-ujung (OMEMO) aktif dan akun yang kamu hubungi memiliki salah satu dari tandatangan berikut:
 
 ```
-# Terakhir diperbaharui 13 September 2025
+# Terakhir diperbaharui 10 Februari 2025
 76020D9D 06D4BAFA 0475584F 2967EB49 97D47F07 59D412D0 52BFF98F C57C575B
-8641C1F4 C2683F74 91641685 0D6135A6 69591FF4 C3DE5761 A700566B BE6EFE7C
+4AB99626 B9192414 B6D6BD2D 53F7135B F91B34B2 F38789CD 46A9AEA9 6D141904
 ```
 
 Jika apa yang ingin dikirimkan kepada saya melalui surel bersifat pribadi, kamu dapat mengenkripsinya menggunakan kunci publik PGP saya. Kunci publik PGP saya dapat diunduh [di sini](https://nawan.my.id/pubkey/pgp_keys.txt)
@@ -36,9 +36,9 @@ I can be reached through various telecommunication channels, but the easiest, fa
 If you decide to contact me via XMPP, make sure that end-to-end encryption (OMEMO) is activated and your account has one of the following signatures:
 
 ```
-# Last updated September 13, 2025
+# Last updated February 10, 2025
 76020D9D 06D4BAFA 0475584F 2967EB49 97D47F07 59D412D0 52BFF98F C57C575B
-8641C1F4 C2683F74 91641685 0D6135A6 69591FF4 C3DE5761 A700566B BE6EFE7C
+4AB99626 B9192414 B6D6BD2D 53F7135B F91B34B2 F38789CD 46A9AEA9 6D141904
 ```
 If what you want to send via email is private, you can encrypt it using my PGP public key. My PGP public key can be downloaded [here](https://nawan.my.id/pubkey/pgp_keys.txt)
 If you are currently using a MacOS or Linux operating system and are comfortable and familiar with using the command line interface,

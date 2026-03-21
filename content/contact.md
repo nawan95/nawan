@@ -13,8 +13,8 @@ Saya bisa dihubungi melalui berbagai kanal telekomunikasi, namun cara paling mud
 Jika menghubungi saya melalui XMPP, pastikan bahwa enkripsi ujung-ke-ujung (OMEMO) aktif dan akun yang kamu hubungi memiliki salah satu dari tandatangan berikut:
 
 ```
-# Terakhir diperbaharui 10 Februari 2025
-76020D9D 06D4BAFA 0475584F 2967EB49 97D47F07 59D412D0 52BFF98F C57C575B
+# Terakhir diperbaharui 16 Maret 2026
+66DFDC76 BD87431E 7E174837 FD508C9F 57BB8C20 D325C281 0BF39F84 CFABFA73
 4AB99626 B9192414 B6D6BD2D 53F7135B F91B34B2 F38789CD 46A9AEA9 6D141904
 ```
 
@@ -36,8 +36,8 @@ I can be reached through various telecommunication channels, but the easiest, fa
 If you decide to contact me via XMPP, make sure that end-to-end encryption (OMEMO) is activated and your account has one of the following signatures:
 
 ```
-# Last updated February 10, 2025
-76020D9D 06D4BAFA 0475584F 2967EB49 97D47F07 59D412D0 52BFF98F C57C575B
+# Last updated March 16, 2026
+66DFDC76 BD87431E 7E174837 FD508C9F 57BB8C20 D325C281 0BF39F84 CFABFA73
 4AB99626 B9192414 B6D6BD2D 53F7135B F91B34B2 F38789CD 46A9AEA9 6D141904
 ```
 If what you want to send via email is private, you can encrypt it using my PGP public key. My PGP public key can be downloaded [here](https://nawan.my.id/pubkey/pgp_keys.txt)

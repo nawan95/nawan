@@ -6,7 +6,7 @@ hidemeta: true
 Saya bisa dihubungi melalui berbagai kanal telekomunikasi, namun cara paling mudah, cepat, dan handal adalah dengan menggunakan XMPP. Berikut adalah cara menghubungi saya, diurutkan berdasarkan preferensi:
 
 1. **XMPP**: [nawanp@disroot.org](xmpp:nawanp@disroot.org)
-2. **Surel**: [saya@nawan.my.id](mailto:saya@nawan.my.id)
+2. **Surel**: [inbox@nawan.my.id](mailto:inbox@nawan.my.id)
 3. **IRC**: `nawan` di [Libera Chat](https://libera.chat)
 4. **Matrix**: Jika kamu menggunakan Matrix, saya bisa dihubungi melalui Matrix dengan XMPP bridge di [@_bifrost_nawanp=40disroot.org:aria-net.org](https://matrix.to/#/@_bifrost_nawanp=40disroot.org:aria-net.org)
 
@@ -29,7 +29,7 @@ Untuk hal yang berkaitan dengan Wikipedia, saya juga dapat dihubungi melalui hal
 I can be reached through various telecommunication channels, but the easiest, fastest, and most reliable way is by using XMPP. Here are the ways to contact me, sorted by preference:
 
 1. **XMPP**: [nawanp@disroot.org](xmpp:nawanp@disroot.org)
-2. **Email**: [saya@nawan.my.id](mailto:saya@nawan.my.id)
+2. **Email**: [inbox@nawan.my.id](mailto:inbox@nawan.my.id)
 3. **IRC**: `nawan` at [Libera Chat](https://libera.chat)
 4. **Matrix**: If you are using Matrix, I can be reached through Matrix with XMPP bridge at [@_bifrost_nawanp=40disroot.org:aria-net.org](https://matrix.to/#/@_bifrost_nawanp=40disroot.org:aria-net.org)
 

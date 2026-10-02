@@ -1,0 +1,4 @@
+<Files *>
+    ForceType application/json
+    Header set Access-Control-Allow-Origin "*"
+</Files>

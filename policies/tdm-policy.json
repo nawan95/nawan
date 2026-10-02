@@ -1,0 +1,29 @@
+{
+  "@context": [
+      "http://www.w3.org/ns/odrl.jsonld",
+      "http://www.w3.org/ns/tdmrep.jsonld"
+  ],
+  "@type": "Offer",
+  "profile": "http://www.w3.org/ns/tdmrep",
+  "uid": "https://nawan.my.id/policies/tdm-policy.json",
+  "assigner": {
+      "uid": "https://nawan.my.id",
+      "vcard:fn": "Nawan Tabah Pangestu",
+      "vcard:nickname": "nawan",
+      "vcard:hasEmail": "inbox@nawan.my.id"
+  },
+  "permission": [{
+      "action": "tdm:mine",
+      "duty": [{
+          "action": "compensate"
+          }
+      ],
+      "constraint": [{
+          "leftOperand": "purpose",
+          "operator": "eq",
+          "rightOperand": "tdm:non-research"
+          }
+      ]
+    }
+  ]
+}

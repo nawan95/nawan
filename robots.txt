@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nawan95.github.io/nawan/sitemap.xml

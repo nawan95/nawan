@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nawantpangestu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nawan.my.id
+  * I am nawantpangestu (https://keybase.io/nawantpangestu) on keybase.
+  * I have a public key ASCOFZuIJ5LgGhY1C_g4r8Y9zfrQk1vRXx2SLgccUqdGRAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120518ad4f81af13d941c05ced00a02e320bd9874b82a1a021ab7557a1c067583130a",
+      "host": "keybase.io",
+      "kid": "01208e159b882792e01a16350bf838afc63dcdfad0935bd15f1d922e071c52a746440a",
+      "uid": "a95216a25b263ca206bbdc770732e919",
+      "username": "nawantpangestu"
+    },
+    "merkle_root": {
+      "ctime": 1666587800,
+      "hash": "efb0295524e04245ac8bae0ccf107fbf0f0fc87a1c23c8457defe006a92c25fc81c2abd18e470d01e783c0ac1c9b5fe000b2e560752d1f580abc3a587aa37999",
+      "hash_meta": "86547c6f150632ed440fdf6a25de2ba5666b45732e7aaefd6947f821470e32a8",
+      "seqno": 23421145
+    },
+    "service": {
+      "entropy": "x10OqE5XKtZHTrJjfSSWZhr6",
+      "hostname": "nawan.my.id",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1666587841,
+  "expire_in": 504576000,
+  "prev": "f3bf62d32ff3837e92e0dbb9fec346ca9e1407c507102f98c2972f590c602f23",
+  "seqno": 65,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjhWbiCeS4BoWNQv4OK/GPc360JNb0V8dki4HHFKnRkQKp3BheWxvYWTESpcCQcQg879i0y/zg36S4Nu5/sNGyp4UB8UHEC+YwpcvWQxgLyPEIF2VJHfxzJ183UkfHKCaF1XPRh86Goxotv1xY8u9vhQLAgHCo3NpZ8RAr6JWYZCZESHlHS0zfYt83s4NGFA0buBBf2TwhU1U0G1+SGX2n0MSchRXuPOtfaU3HY4+2BzDiorE6r+WZcndCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIExx3pM5iTL17NJ18fETDPmfuULu1BFNsX7OCoS1gHyho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nawantpangestu
+
+==================================================================

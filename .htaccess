@@ -1,0 +1,2 @@
+Header set tdm-reservation "1"
+Header set tdm-policy "https://nawan.my.id/policies/tdm-policy.json"

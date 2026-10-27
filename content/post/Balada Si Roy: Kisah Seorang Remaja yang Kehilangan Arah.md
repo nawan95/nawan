@@ -11,7 +11,7 @@ categories: "Film & TV"
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Si Roy dalam film ini adalah remaja puber yang kehilangan arah dalam proses pencarian jati diri, sama seperti filmnya sendiri."
 #canonicalURL: "https://canonical.url/to/page"
 disableShare: false

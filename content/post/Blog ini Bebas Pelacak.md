@@ -11,7 +11,7 @@ categories: "Meta"
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Sejak 6 April 2024, blog ini bebas dari pelacak web."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

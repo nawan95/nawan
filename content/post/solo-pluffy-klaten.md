@@ -11,7 +11,7 @@ categories: Sembarang
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Kue kekinian milik artis Jessica Milla yang hanya berumur pendek."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

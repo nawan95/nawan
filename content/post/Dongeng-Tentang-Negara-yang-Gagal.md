@@ -11,7 +11,7 @@ categories: "Film & TV"
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Membiarkan remaja seperti Jefri dikeluarkan dari sekolah begitu saja tak ubahnya melepas macan dari kandangnya."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

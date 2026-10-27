@@ -11,7 +11,7 @@ categories: "Tutorial"
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Untuk kamu yang telah lelah dengan aksi blokir memblokir Kominfo/Komdigi tetapi tidak ingin berkompromi."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

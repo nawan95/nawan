@@ -11,7 +11,7 @@ categories: ["Sembarang"]
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 # description: 
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

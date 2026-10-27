@@ -11,7 +11,7 @@ categories: ["Teknologi", "Tutorial"]
 showToc: true
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Sebuah bukti aknedotal tentang bagaimana saya meningkatkan performa dan responsivitas sistem operasi Linux dengan RAM 4GB."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

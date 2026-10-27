@@ -18,7 +18,7 @@ tags:
 showToc: true
 TocOpen: true
 hidemeta: false
-comments: false
+comments: true
 description: "Bagaimana rasanya menetap sehari di sebuah tempat tanpa listrik dan internet?"
 #canonicalURL: "https://canonical.url/to/page"
 disableShare: false

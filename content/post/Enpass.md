@@ -11,7 +11,7 @@ tags: ["password manager"]
 showToc: true
 TocOpen: true
 hidemeta: false
-comments: false
+comments: true
 description: ""
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

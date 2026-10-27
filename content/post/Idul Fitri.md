@@ -14,7 +14,7 @@ tags:
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Jemaah Aolia dan upaya-upaya untuk memaksakan kesepahaman dalam kepercayaan Islam."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

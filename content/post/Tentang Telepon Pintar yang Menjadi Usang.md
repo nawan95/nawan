@@ -4,6 +4,7 @@ title: Tentang Telepon Pintar yang Menjadi Usang
 description: "Namun, bagaimana jika umur gawai tersebut pendek, atau malah memang disengaja dibuat sedemikian rupa?"
 author: Nawan
 categories: "Teknologi"
+comments: true
 tags:
 - Renungan
 - Kontemplasi

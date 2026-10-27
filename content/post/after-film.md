@@ -22,7 +22,7 @@ cover:
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 canonicalURL: "https://canonical.url/to/page"
 disableShare: false
 disableHLJS: false # to disable highlight.js

@@ -14,7 +14,7 @@ categories: Sindiran
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Tolong pastikan postingan tutorial di blog kalian masih relevan. Saya membuang-buang waktu dengan mengikuti tutorial dari sebuah blog yang tidak lagi relevan."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

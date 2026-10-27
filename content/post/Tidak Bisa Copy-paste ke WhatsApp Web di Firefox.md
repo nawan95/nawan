@@ -12,7 +12,7 @@ categories: Teknologi
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Sebuah bug membuat pengguna Firefox tidak dapat menyalin-tempel ke WhatsApp Web"
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

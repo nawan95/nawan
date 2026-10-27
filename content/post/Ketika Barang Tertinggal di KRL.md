@@ -11,7 +11,7 @@ categories: Tutorial
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Apa yang yang harus kamu lakukan? Berikut adalah panduan jika barang kamu tertinggal atau hilang di dalam KRL yang ditulis berdasarkan pengalaman langsung saya."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false

@@ -11,7 +11,7 @@ tags: ["dotclear","blog","hugo","wordpress","CMS","content management system"]
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "Saya menemukan Dotclear, mencobanya, dan sekarang saya bingung apakah harus mengganti blog ini dengan blog berbasis Dotclear."
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false
